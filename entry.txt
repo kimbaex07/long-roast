@@ -1,0 +1,1 @@
+My agent reads 200 skills, spawns three subagents, and writes a report — all to avoid the one tool call that would actually finish the job.
